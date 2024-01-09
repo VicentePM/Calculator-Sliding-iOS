@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "4205608f4b2ad81262e9328efbe9d2ab-logotipo-abstracto-de-cubo-geom-trico.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "4205608f4b2ad81262e9328efbe9d2ab-logotipo-abstracto-de-cubo-geom-trico@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "4205608f4b2ad81262e9328efbe9d2ab-logotipo-abstracto-de-cubo-geom-trico@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
